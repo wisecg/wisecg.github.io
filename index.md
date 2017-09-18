@@ -14,6 +14,7 @@ Link to another page here:
 - [Overview](pages/overview.html)
 
 Clint, this is working.
+It's really working.  And for some reason the master branch has to exist but the pages on the gh-pages branch are the only ones that get built with jekyll.
 
 ---
 
