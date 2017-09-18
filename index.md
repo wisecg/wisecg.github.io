@@ -14,6 +14,7 @@ Link to another page here:
 - [Overview](pages/overview.html)
 
 Clint, this is working.  And somehow now you can update the master branch?
+And how long does it take for the changes to show up?
 
 ---
 
