@@ -13,7 +13,7 @@ website using
 Link to another page here:
 - [Overview](pages/overview.html)
 
-Clint, this is working.
+Clint, this is working.  And somehow now you can update the master branch?
 
 ---
 
